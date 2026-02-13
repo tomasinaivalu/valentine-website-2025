@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "FILORNA WHIPPY",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -15,7 +15,8 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        bears: ['🧸', '🐒']                       // Cute bear emojis
+        
     },
 
     // Questions and answers
@@ -33,7 +34,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -50,8 +51,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        message: "Now come get your gift, a big warm hug and a huge kiss! Happy Valentines M'LUV🥹🫶💕 have a blessed n beautiful day hope ur day is filled with happiness, joy, laughter and most importantly love😌 thankiuuu for showing me kindness, compassionn n love wen i didn't believe in it🥹 thankiuu for being the only person who understands me n still cares for me🫶 thankiuuu for everything u have done for me🥹🫶 Cheers to many adventures n memories with uu my energetic lil monkeyyy😛🤭 I'll forever love every side of uu both seen n unseen from the bottom of my heart love uu to infinity n beyond my ride n diee take care n stay blessed as always Mrs Maybeeee❤️❤️🫶💕🐒😍",
+        emojis: "🎁💖🤗🫶🥹💗🤍💋❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
